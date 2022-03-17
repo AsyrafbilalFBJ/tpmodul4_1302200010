@@ -1,1 +1,5 @@
 E:\Tugas Tel-U\semester 4\KONSTRUKSI PERANGKAT LUNAK\visual projek\tpmodul4_1302200010\tpmodul4_1302200010\bin\Debug\tpmodul4_1302200010.exe.config
+E:\Tugas Tel-U\semester 4\KONSTRUKSI PERANGKAT LUNAK\visual projek\tpmodul4_1302200010\tpmodul4_1302200010\bin\Debug\tpmodul4_1302200010.exe
+E:\Tugas Tel-U\semester 4\KONSTRUKSI PERANGKAT LUNAK\visual projek\tpmodul4_1302200010\tpmodul4_1302200010\bin\Debug\tpmodul4_1302200010.pdb
+E:\Tugas Tel-U\semester 4\KONSTRUKSI PERANGKAT LUNAK\visual projek\tpmodul4_1302200010\tpmodul4_1302200010\obj\Debug\tpmodul4_1302200010.exe
+E:\Tugas Tel-U\semester 4\KONSTRUKSI PERANGKAT LUNAK\visual projek\tpmodul4_1302200010\tpmodul4_1302200010\obj\Debug\tpmodul4_1302200010.pdb

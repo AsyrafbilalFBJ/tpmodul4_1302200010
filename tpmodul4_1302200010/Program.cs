@@ -6,10 +6,19 @@ using System.Threading.Tasks;
 
 namespace tpmodul4_1302200010
 {
+    class HaloGeneric
+    {
+        public static void SapaUser<T>(T X)
+        {
+            Console.WriteLine("Halo user " + X);
+        }
+    }
     class Program
     {
         static void Main(string[] args)
         {
+            HaloGeneric.SapaUser<String>("Asyraf");
+            Console.ReadKey();
         }
     }
 }
